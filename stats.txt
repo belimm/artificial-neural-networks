@@ -1,0 +1,1 @@
+0.01 0 256 relu tensor(24.8750) tensor(20.2100) tensor(19.8300)
